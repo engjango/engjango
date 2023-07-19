@@ -7,7 +7,6 @@ I'm Janderson Gomes, electrical engineer and software developer.
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/engjango/)
-[![Instagran Badge](https://img.shields.io/badge/Instagram-Janderson%20Gomes-blue)](https://www.instagram.com/in/engjango/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/in/engjango/)
 
 <!--
