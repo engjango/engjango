@@ -10,7 +10,7 @@
 ### Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/engjango/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/in/engjango/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/engjango/)
 
 ### GitHub Stats
 
