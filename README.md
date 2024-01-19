@@ -15,7 +15,6 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=engjango&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engjango&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="Top Languages" width="400" />
 </p>
 
