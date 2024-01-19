@@ -12,12 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/engjango/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/engjango/)
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engjango&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="Top Languages" width="400" />
-</p>
-
 <!--
 **jndgomes/jndgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
