@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=engjango&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
+</p>
